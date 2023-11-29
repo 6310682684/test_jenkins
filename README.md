@@ -1,6 +1,6 @@
 # test_jenkins
 
-test message 1
-test message 2
-add message 3
-add message 4
+#test message 1
+#test message 2
+#add message 3
+
